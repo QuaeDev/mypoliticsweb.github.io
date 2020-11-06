@@ -72,7 +72,7 @@ a {
   color: #2ca8ff;
 }
 a:hover, a:focus {
-  color: #109cff;
+  color: #CCCCCC; 
   text-decoration: none;
 }
 
@@ -1724,11 +1724,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
   padding-top: 5px;
 }
 .founder-picture-caption{
-  margin-top: -15px;
+  margin-top: 15px;
+  color: #FFFFFF;
 }
 #submit-button{
   background-color: #8441BA;
-  border-color: #8441BA; ;
+  border-color: #8441BA; 
+  color: ;
+}
+#submit-button:hover{
+  color: #000000;
 }
 
 #border-purple{
